@@ -1,0 +1,14 @@
+{
+    "name": {
+        "ar": "tw-selia-pro",
+        "en": "tw-selia-pro"
+    },
+    "description": {
+        "ar": "",
+        "en": ""
+    },
+    "author_email": "seliaagency@gmail.com",
+    "support_url": "",
+    "repository": "https://github.com/eslamoo/tw-selia-pro",
+    "components": []
+}
